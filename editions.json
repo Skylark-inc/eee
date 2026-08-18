@@ -67,13 +67,13 @@
   },
   {
     "edition": "Edition 27",
-    "version": "v1.0 Beta 4",
+    "version": "v1.0 Beta 5",
     "min": "27.0",
     "max": "27.0",
     "beta": true,
     "alert": false,
     "alertMessage": "No active alerts.",
     "eol": false,
-    "link": "https://www.icloud.com/shortcuts/7061736f9c234ed8ae802f614e677d1b"
+    "link": "https://www.icloud.com/shortcuts/f4ef358aca2547f69e2b77a648f7ef99"
   }
 ]
