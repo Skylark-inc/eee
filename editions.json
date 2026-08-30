@@ -58,7 +58,7 @@
     "edition": "Edition 26",
     "version": "v1.6",
     "min": "26.0",
-    "max": "26.6",
+    "max": "26.6.1",
     "beta": false,
     "alert": false,
     "alertMessage": "No active alerts.",
