@@ -56,14 +56,14 @@
   },
   {
     "edition": "Edition 26",
-    "version": "v1.6",
+    "version": "v1.6.1",
     "min": "26.0",
     "max": "26.6.1",
     "beta": false,
     "alert": false,
     "alertMessage": "No active alerts.",
     "eol": false,
-    "link": "https://www.icloud.com/shortcuts/8919023644864eb18165068158460c54"
+    "link": "https://www.icloud.com/shortcuts/7d68566ec6124f3c95c6ab1e57216026"
   },
   {
     "edition": "Edition 27",
